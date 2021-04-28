@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oziasmoyo
-- 👀 I’m interested in java coding
+- 👀 I’m interested in java coding as well as python
 - 🌱 I’m a novice in java programming and very green in github
-- 💞️ I’m looking to collaborate on basic java projects
+- 💞️ I’m looking to collaborate on basic java or python projects
 - 📫 I'm reachable via email at oziasmoyo@yahoo.com
 
 <!---
